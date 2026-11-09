@@ -1,0 +1,5 @@
+TOF sensor VL53L0X: class 1 laser so should be fine for face scans https://www.digikey.co.uk/en/products/detail/stmicroelectronics/VL53L0CXV0DH-1/6023691?gclsrc=aw.ds&gad_source=1&gad_campaignid=17347303118&gbraid=0AAAAADrbLliG8mO_4mL-JMvQQas-hb6hj&gclid=CjwKCAiAkrbXBhB2EiwA2y1E3ubwYoqrBhzFpd9x9q5e3HdQ1YBdwBIhY17UyEMuXn2iluP_s62fjRoCilUQAvD_BwE
+
+
+
+
