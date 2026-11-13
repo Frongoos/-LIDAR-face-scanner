@@ -1,5 +1,18 @@
 TOF sensor VL53L0X: class 1 laser so should be fine for face scans https://www.digikey.co.uk/en/products/detail/stmicroelectronics/VL53L0CXV0DH-1/6023691?gclsrc=aw.ds&gad_source=1&gad_campaignid=17347303118&gbraid=0AAAAADrbLliG8mO_4mL-JMvQQas-hb6hj&gclid=CjwKCAiAkrbXBhB2EiwA2y1E3ubwYoqrBhzFpd9x9q5e3HdQ1YBdwBIhY17UyEMuXn2iluP_s62fjRoCilUQAvD_BwE
 
+Vs: 3.3V
 
 
 
+
+
+VL53L0X API : https://www.st.com/resource/en/user_manual/um2039-world-smallest-timeofflight-ranging-and-gesture-detection-sensor-application-programming-interface-stmicroelectronics.pdf
+
+STM32G070CB:  
+
+Two DC encoded motors: https://www.digikey.co.uk/en/products/detail/dfrobot/FIT0450/7597205. Max current draw of 2 is 0.34A
+
+5V input is stepped down to 3.3V with MC3066
+
+
+USB ESD protection: https://www.digikey.co.uk/en/products/detail/stmicroelectronics/USBLC6-2SC6/1040559
